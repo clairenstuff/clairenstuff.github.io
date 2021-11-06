@@ -1,6 +1,8 @@
 <header>
    <link rel="stylesheet" href="https://use.typekit.net/nnn8war.css">
-    <link rel="stylesheet" href="https://use.typekit.net/nnn8war.css">
+   <link rel="stylesheet" href="https://use.typekit.net/nnn8war.css">
+	<link rel="stylesheet" href="style.css">
+	
 
      <img src="small-logo.png" alt="small logo">
   
