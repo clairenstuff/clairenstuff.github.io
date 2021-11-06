@@ -1,7 +1,7 @@
 <header>
    <link rel="stylesheet" href="https://use.typekit.net/nnn8war.css">
    <link rel="stylesheet" href="https://use.typekit.net/nnn8war.css">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://github.com/clairenstuff/clairenstuff.github.io/blob/56fbe2e278149a5f5f770dd8ad79883b5f9eb536/main.css">
 	
 
      <img src="small-logo.png" alt="small logo">
